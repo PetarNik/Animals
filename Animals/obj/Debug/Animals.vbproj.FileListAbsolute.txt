@@ -1,0 +1,9 @@
+D:\Programs\Telerick\UI&DOM\All-Tasks\Task 1\Animals\Animals\bin\Animals.dll.config
+D:\Programs\Telerick\UI&DOM\All-Tasks\Task 1\Animals\Animals\bin\Animals.dll
+D:\Programs\Telerick\UI&DOM\All-Tasks\Task 1\Animals\Animals\bin\Animals.pdb
+D:\Programs\Telerick\UI&DOM\All-Tasks\Task 1\Animals\Animals\bin\Animals.xml
+D:\Programs\Telerick\UI&DOM\All-Tasks\Task 1\Animals\Animals\obj\Debug\Animals.Resources.resources
+D:\Programs\Telerick\UI&DOM\All-Tasks\Task 1\Animals\Animals\obj\Debug\Animals.vbproj.GenerateResource.Cache
+D:\Programs\Telerick\UI&DOM\All-Tasks\Task 1\Animals\Animals\obj\Debug\Animals.dll
+D:\Programs\Telerick\UI&DOM\All-Tasks\Task 1\Animals\Animals\obj\Debug\Animals.xml
+D:\Programs\Telerick\UI&DOM\All-Tasks\Task 1\Animals\Animals\obj\Debug\Animals.pdb
